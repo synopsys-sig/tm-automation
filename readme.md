@@ -1,0 +1,1 @@
+Threat Modeling AI Assistant based on https://github.com/mrwadams/stride-gpt as seen on https://stridegpt.streamlit.app/
