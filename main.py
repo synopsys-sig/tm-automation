@@ -36,12 +36,12 @@ Example of expected JSON response format:
         {{
           "Component": "Web Application",
           "Description": "Example Description 1",
-          "Technology Contexts": "Example Tech Context 1"
+          "Technology Context": "Example Tech Context 1"
         }},
         {{
           "Component": "Database Server",
           "Description": "Example Description 2",
-          "Technology Contexts": "Example Tech Contexts 2"
+          "Technology Context": "Example Tech Contexts 2"
         }},
         // ... more components
       ]
